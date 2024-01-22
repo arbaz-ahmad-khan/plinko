@@ -1,0 +1,68 @@
+{
+    "section1": {
+        "files": [
+            {
+                "url": "assets/images/score/0.2.png",
+                "type": "image",
+                "key": "0.2"
+            },
+            {
+                "url": "assets/images/score/1000.png",
+                "type": "image",
+                "key": "1000"
+            },
+            {
+                "url": "assets/images/score/130.png",
+                "type": "image",
+                "key": "130"
+            },
+            {
+                "url": "assets/images/score/2.png",
+                "type": "image",
+                "key": "2"
+            },
+            {
+                "url": "assets/images/score/26.png",
+                "type": "image",
+                "key": "26"
+            },
+            {
+                "url": "assets/images/score/4.png",
+                "type": "image",
+                "key": "4"
+            },
+            {
+                "url": "assets/images/score/9.png",
+                "type": "image",
+                "key": "9"
+            },
+            {
+                "url": "assets/images/ball.png",
+                "type": "image",
+                "key": "ball"
+            },
+            {
+                "url": "assets/images/ball-2.png",
+                "type": "image",
+                "key": "ball-2"
+            },
+            {
+                "url": "assets/images/bg.png",
+                "type": "image",
+                "key": "bg"
+            },
+            {
+                "url": "assets/images/peg.png",
+                "type": "image",
+                "key": "peg"
+            }
+        ]
+    },
+    "meta": {
+        "app": "Phaser Editor 2D - Asset Pack Editor",
+        "contentType": "phasereditor2d.pack.core.AssetContentType",
+        "url": "https://phasereditor2d.com",
+        "version": 2,
+        "showAllFilesInBlocks": false
+    }
+}

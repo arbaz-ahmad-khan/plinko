@@ -1,0 +1,178 @@
+{
+    "id": "01aefa93-6044-4159-8358-7e91310aa05f",
+    "sceneType": "SCENE",
+    "settings": {
+        "preloadPackFiles": [],
+        "createMethodName": "editorCreate",
+        "sceneKey": "Level",
+        "borderWidth": 1920,
+        "borderHeight": 1080
+    },
+    "displayList": [
+        {
+            "type": "Container",
+            "id": "06478dd9-86a3-4a36-96d8-b9338afbdca2",
+            "label": "scoreNumberContainer",
+            "scope": "CLASS",
+            "list": [
+                {
+                    "type": "Image",
+                    "id": "36de43d0-0dbe-4b3f-b4be-bae2ffc0efa0",
+                    "label": "score_0_2",
+                    "texture": {
+                        "key": "0.2"
+                    },
+                    "x": 890,
+                    "y": 1000
+                },
+                {
+                    "type": "Image",
+                    "id": "f780598a-f7cc-442b-8cd5-c1168beddf0f",
+                    "label": "score_2",
+                    "texture": {
+                        "key": "2"
+                    },
+                    "x": 820,
+                    "y": 1000
+                },
+                {
+                    "type": "Image",
+                    "id": "14217095-8f2e-4646-98de-8a1a92db5de3",
+                    "label": "score_4",
+                    "texture": {
+                        "key": "4"
+                    },
+                    "x": 750,
+                    "y": 1000
+                },
+                {
+                    "type": "Image",
+                    "id": "68204894-7baa-4fad-b0ef-5ff50777dd38",
+                    "label": "score_9",
+                    "texture": {
+                        "key": "9"
+                    },
+                    "x": 680,
+                    "y": 1000
+                },
+                {
+                    "type": "Image",
+                    "id": "029c37ef-dbaa-44a6-a2f3-c83cfb9f77d8",
+                    "label": "score_26",
+                    "texture": {
+                        "key": "26"
+                    },
+                    "x": 610,
+                    "y": 1000
+                },
+                {
+                    "type": "Image",
+                    "id": "7d4c8889-1698-4558-b17e-e12edf69ca48",
+                    "label": "score_130",
+                    "texture": {
+                        "key": "130"
+                    },
+                    "x": 540,
+                    "y": 1000
+                },
+                {
+                    "type": "Image",
+                    "id": "5ae13f57-643f-43f6-9490-0b85d3d9563b",
+                    "label": "score_1000",
+                    "texture": {
+                        "key": "1000"
+                    },
+                    "x": 470,
+                    "y": 1000
+                },
+                {
+                    "type": "Image",
+                    "id": "60316ca3-9a02-407c-a9ba-40c81907907d",
+                    "label": "score",
+                    "texture": {
+                        "key": "0.2"
+                    },
+                    "x": 960,
+                    "y": 1000
+                },
+                {
+                    "type": "Image",
+                    "id": "269b250b-48d2-41b6-bc21-49e39f33d06a",
+                    "label": "score_1",
+                    "texture": {
+                        "key": "0.2"
+                    },
+                    "x": 1030,
+                    "y": 1000
+                },
+                {
+                    "type": "Image",
+                    "id": "6b9a78e3-329a-4054-82f9-2bb7743779a1",
+                    "label": "score_3",
+                    "texture": {
+                        "key": "2"
+                    },
+                    "x": 1100,
+                    "y": 1000
+                },
+                {
+                    "type": "Image",
+                    "id": "2bcf1053-c706-47c2-bb7c-a550a2a58df0",
+                    "label": "score_5",
+                    "texture": {
+                        "key": "4"
+                    },
+                    "x": 1170,
+                    "y": 1000
+                },
+                {
+                    "type": "Image",
+                    "id": "2cdf1724-4c88-44ac-af74-a0cb549c6cf8",
+                    "label": "score_6",
+                    "texture": {
+                        "key": "9"
+                    },
+                    "x": 1240,
+                    "y": 1000
+                },
+                {
+                    "type": "Image",
+                    "id": "d5b3e128-83c0-4065-990a-742bff5d597c",
+                    "label": "score_7",
+                    "texture": {
+                        "key": "26"
+                    },
+                    "x": 1310,
+                    "y": 1000
+                },
+                {
+                    "type": "Image",
+                    "id": "cea3a670-8909-49ca-8519-8c4a607f82ea",
+                    "label": "score_8",
+                    "texture": {
+                        "key": "130"
+                    },
+                    "x": 1380,
+                    "y": 1000
+                },
+                {
+                    "type": "Image",
+                    "id": "aa654f73-4444-4db0-af16-57193981ba76",
+                    "label": "score_10",
+                    "texture": {
+                        "key": "1000"
+                    },
+                    "x": 1450,
+                    "y": 1000
+                }
+            ]
+        }
+    ],
+    "plainObjects": [],
+    "meta": {
+        "app": "Phaser Editor 2D - Scene Editor",
+        "url": "https://phasereditor2d.com",
+        "contentType": "phasereditor2d.core.scene.SceneContentType",
+        "version": 4
+    }
+}
